@@ -256,18 +256,6 @@ Excel Sheet of Alerts Mapping Table (needs updating)
 ## Recent changes
 Older changes are here: [Changelog.md](Changelog.md)
 
-### 2.1.1 - use with FC 2.1.0 (DRAFT)
-* Misc changes
-	* [#532][i532] 	SVG Errors
-
-* Lua Rule File / Symbol Updates
-	* [#465][i465] Text Instruction Bug in MooringArea
-	* [#465][i465] RadioCallingInPoint with association to ContactDetails doesn't show communication channel
-	* [#512][i512] RECTRC10 has dash line that's longer than the intervalLength
-	* [#513][i513] RECDEF02 has dash that starts after the interval length
-
-
-
 
 
 
@@ -282,6 +270,7 @@ Older changes are here: [Changelog.md](Changelog.md)
 	* [#511][i511] 	Proposal for new group of sounding symbols (transferred from subwg 185), resolved with #483
 	* [#520][i520] 	All symbols must be updated (transferred from subwg 124)
 	* [#524][i524] 	Finalize PC 2.1.0
+	* [#532][i532] 	SVG Errors
 
 
 
@@ -334,6 +323,10 @@ Older changes are here: [Changelog.md](Changelog.md)
 	* [#519][i519] New Line Style for Subsurface Cliffs Required (transferred from subwg 190)
 	* [#521][i521] Accidental concatenation
 	* [#523][i523] WRECKS05 and OBSTRN07
+	* [#465][i465] Text Instruction Bug in MooringArea
+	* [#465][i465] RadioCallingInPoint with association to ContactDetails doesn't show communication channel
+	* [#512][i512] RECTRC10 has dash line that's longer than the intervalLength
+	* [#513][i513] RECDEF02 has dash that starts after the interval length
 
 
 
